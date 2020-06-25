@@ -1,5 +1,5 @@
 # A simple JavaScript Module for Capitalizing Text
-`capitalize()` is a lightweight, easy to use module for capitalizing your inputted string.
+`capitalize-text` is a lightweight, easy to use module for capitalizing your inputted string.
 
 ## How to use Module
 
