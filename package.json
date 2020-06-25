@@ -1,0 +1,24 @@
+{
+  "name": "tocapitalize",
+  "version": "1.0.0",
+  "description": "A JavaScript Module for capitalizing the string",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/h26k2/toCapitalize.git"
+  },
+  "keywords": [
+    "npm",
+    "npm-toCapitalize",
+    "capitalize-string"
+  ],
+  "author": "hasnain karim",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/h26k2/toCapitalize/issues"
+  },
+  "homepage": "https://github.com/h26k2/toCapitalize#readme"
+}
