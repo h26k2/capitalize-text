@@ -8,8 +8,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/h26k2/toCapitalize.git"
+    "url": "git+https://github.com/h26k2/capitalize-text.git"
   },
+  "publishConfig": { "registry": "https://npm.pkg.github.com/" },
   "keywords": [
     "npm",
     "npm-toCapitalize",

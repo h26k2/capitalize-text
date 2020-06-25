@@ -1,5 +1,5 @@
 
-const toCapitalize = (text) =>{
+const capitalize = (text) =>{
     
     text = text.split(" ");
     let converted = ``;
@@ -17,4 +17,4 @@ const toCapitalize = (text) =>{
     
 }
 
-module.exports = toCapitalize
+module.exports = capitalize
