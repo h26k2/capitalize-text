@@ -1,17 +1,17 @@
 # A simple JavaScript Module for Capitalizing Text
-`toCapitalize()` is a lightweight, easy to use module for capitalizing your inputted string.
+`Capitalize()` is a lightweight, easy to use module for capitalizing your inputted string.
 
 ## How to use Module
 
 * Install the module from `npm` using following command
-  * `npm install toCapitalize`
+  * `npm install capitalize-text`
 * Import the module from where you want
-  * `const toCapitalize = require('toCapitalize')`
+  * `const Capitalize = require('capitalize-text')`
  
  ## Example Code
  
  ```
- const toCapitalize = require('toCapitalize');
+ const capitalize = require('capitalize-text');
  
- let capitalizedString = toCapitalize("Hello world! this is just a demo text");
+ let capitalizedString = capitalize("Hello world! this is just a demo text");
  ```

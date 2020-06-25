@@ -1,5 +1,5 @@
 {
-  "name": "tocapitalize",
+  "name": "capitalize-text",
   "version": "1.0.0",
   "description": "A JavaScript Module for capitalizing the string",
   "main": "index.js",
