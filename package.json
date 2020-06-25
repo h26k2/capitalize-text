@@ -1,6 +1,6 @@
 {
   "name": "capitalize-text",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A JavaScript Module for capitalizing the string",
   "main": "index.js",
   "scripts": {
@@ -10,16 +10,16 @@
     "type": "git",
     "url": "git+https://github.com/h26k2/capitalize-text.git"
   },
-  "publishConfig": { "registry": "https://npm.pkg.github.com/" },
   "keywords": [
     "npm",
-    "npm-toCapitalize",
-    "capitalize-string"
+    "npm-capitalize",
+    "capitalize-string",
+    "capitalize-text"
   ],
   "author": "hasnain karim",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/h26k2/toCapitalize/issues"
+    "url": "https://github.com/h26k2/capitalize-text/issues"
   },
-  "homepage": "https://github.com/h26k2/toCapitalize#readme"
+  "homepage": "https://github.com/h26k2/capitalize-text#readme"
 }
